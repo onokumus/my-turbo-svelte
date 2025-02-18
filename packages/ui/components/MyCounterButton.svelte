@@ -6,6 +6,6 @@
   }
 </script>
 
-<button on:click={handleClick}>
+<button class="border-2 border-teal-400 p-3 cursor-pointer bg-teal-300 rounded m-4" onclick={handleClick}>
   clicks: {count}
 </button>
