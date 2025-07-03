@@ -15,7 +15,7 @@
     },
     "devDependencies": {
         "@repo/eslint-config": "*",
-        "eslint": "^9.28.0",
+        "eslint": "^9.30.1",
         "svelte": "^5.34.3"
     }
 }
